@@ -57,8 +57,7 @@ ROA = f(BOC, IOC, GOC, LEV)
 ROE = f(BOC, IOC, GOC, LEV)
 
 # Figures
-Below are the figures used in the analysis.  
-Upload your images into a `/figures` folder and ensure the filenames match the placeholders.
+Upload your images into a `/figures` folder and ensure filenames match the placeholders.
 
 ### Figure 1: Structure of the Research
 ![Figure 1](figures/figure1_structure_of_research.png)
@@ -66,7 +65,7 @@ Upload your images into a `/figures` folder and ensure the filenames match the p
 ### Figure 2: Average ROE and ROA for the Selected Manufacturing Firms
 ![Figure 2](figures/figure2_average_roe_roa.png)
 
-### Figure 3: Average Value of BOC, IOC and GOC for the Companies
+### Figure 3: Average Value of BOC, IOC and GOC
 ![Figure 3](figures/figure3_average_boc_ioc_goc.png)
 
 ### Figure 4: Scatterplots of ROA vs Ownership Concentration
@@ -76,7 +75,7 @@ Upload your images into a `/figures` folder and ensure the filenames match the p
 ![Figure 5](figures/figure5_scatter_roe.png)
 
 # Tables
-Upload your tables into a `/tables` folder or replace the Markdown tables below with actual data.
+Upload your table images into a `/tables` folder.
 
 ### Table 1: List of Selected Firms
 ![Table 1](tables/table1_selected_firms.png)
@@ -87,10 +86,10 @@ Upload your tables into a `/tables` folder or replace the Markdown tables below 
 ### Table 3: Correlation Analysis
 ![Table 3](tables/table3_correlation_analysis.png)
 
-### Table 4: Regression Results (ROA as Dependent Variable)
+### Table 4: Regression Results (ROA)
 ![Table 4](tables/table4_regression_roa.png)
 
-### Table 5: Regression Results (ROE as Dependent Variable)
+### Table 5: Regression Results (ROE)
 ![Table 5](tables/table5_regression_roe.png)
 
 # Literature Review Summary
