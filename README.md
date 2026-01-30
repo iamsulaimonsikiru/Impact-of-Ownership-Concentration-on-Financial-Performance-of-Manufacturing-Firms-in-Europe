@@ -8,6 +8,8 @@ A Quantitative Panel‑Data Research Project (1980–2021)
 - [Research Questions](#research-questions)
 - [Methodology Summary](#methodology-summary)
 - [Model Specification](#model-specification)
+- [Figures](#figures)
+- [Tables](#tables)
 - [Literature Review Summary](#literature-review-summary)
 - [Key Findings](#key-findings)
 - [Conclusion](#conclusion)
@@ -48,12 +50,48 @@ To evaluate the impact of different ownership concentration structures on the fi
   - Random Effects
 - Tools Used:
   - Excel (data cleaning, descriptive statistics, regression analysis)
-  - (Add others if applicable: Python, R, Stata, SPSS)
 
 # Model Specification
 ROA = f(BOC, IOC, GOC, LEV)
 
 ROE = f(BOC, IOC, GOC, LEV)
+
+# Figures
+Below are the figures used in the analysis.  
+Upload your images into a `/figures` folder and ensure the filenames match the placeholders.
+
+### Figure 1: Structure of the Research
+![Figure 1](figures/figure1_structure_of_research.png)
+
+### Figure 2: Average ROE and ROA for the Selected Manufacturing Firms
+![Figure 2](figures/figure2_average_roe_roa.png)
+
+### Figure 3: Average Value of BOC, IOC and GOC for the Companies
+![Figure 3](figures/figure3_average_boc_ioc_goc.png)
+
+### Figure 4: Scatterplots of ROA vs Ownership Concentration
+![Figure 4](figures/figure4_scatter_roa.png)
+
+### Figure 5: Scatterplots of ROE vs Ownership Concentration
+![Figure 5](figures/figure5_scatter_roe.png)
+
+# Tables
+Upload your tables into a `/tables` folder or replace the Markdown tables below with actual data.
+
+### Table 1: List of Selected Firms
+![Table 1](tables/table1_selected_firms.png)
+
+### Table 2: Descriptive Statistics
+![Table 2](tables/table2_descriptive_statistics.png)
+
+### Table 3: Correlation Analysis
+![Table 3](tables/table3_correlation_analysis.png)
+
+### Table 4: Regression Results (ROA as Dependent Variable)
+![Table 4](tables/table4_regression_roa.png)
+
+### Table 5: Regression Results (ROE as Dependent Variable)
+![Table 5](tables/table5_regression_roe.png)
 
 # Literature Review Summary
 The literature reveals mixed empirical findings:
@@ -83,6 +121,8 @@ The study provides evidence on how different ownership structures influence firm
 - Conduct further research using additional performance metrics (e.g., Tobin’s Q).
 
 # Repository Structure
+figures/             # All charts and visualisations  
+tables/              # All tables (images or markdown)  
 data/                # Raw and cleaned datasets  
 scripts/             # Analysis scripts (Python/R/Stata)  
 outputs/             # Regression tables, figures, charts  
